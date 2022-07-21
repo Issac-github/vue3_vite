@@ -10,6 +10,8 @@
     "prettier": "prettier --write ."
   },
   "dependencies": {
+    "ant-design-vue": "^3.2.10",
+    "pinia": "^2.0.16",
     "vue": "^3.2.37"
   },
   "devDependencies": {
@@ -24,6 +26,7 @@
     "prettier": "^2.7.1",
     "sass": "^1.53.0",
     "typescript": "^4.6.4",
+    "unplugin-vue-components": "^0.21.1",
     "vite": "^3.0.0",
     "vue-tsc": "^0.38.4"
   }
