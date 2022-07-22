@@ -16,6 +16,7 @@
   </div>
   <HelloWorld msg="Vite + Vue" />
   <a-rate :value="5" />
+  <router-view></router-view>
 </template>
 
 <style scoped>
